@@ -1,0 +1,10 @@
+{
+  "name": "react-native-monorepo",
+  "private": true,
+  "nohoist":[],
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  }
+}

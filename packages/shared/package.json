@@ -1,0 +1,9 @@
+{
+    "name": "@monorepo/shared",
+    "version": "0.1.0",
+    "private": true,
+    "main": "src/index.ts",
+    "dependencies": {
+		  "@bcp-nextgen-dx-component-factory/accolade-design-system": "^1.0.0-1.0.141736"
+    }
+  }
